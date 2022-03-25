@@ -10,6 +10,7 @@
 
 <div>
   <h1>齐天大圣到此一游</h1>
+  <h1>猪八戒到此一游</h1>
   <h3>time is {time}</h3>
   <button>reload</button>
 </div>
