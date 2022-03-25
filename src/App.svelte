@@ -1,12 +1,13 @@
 <script>
   import logo from './assets/svelte.png'
+import BasicInfo from './lib/BasicInfo.svelte';
   import Counter from './lib/Counter.svelte'
 </script>
 
 <main>
   <img src={logo} alt="Svelte Logo" />
   <h1>Hello world!</h1>
-
+  <BasicInfo></BasicInfo>
   <Counter />
 
   <p>
